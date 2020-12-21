@@ -6,18 +6,19 @@ export default {
   colors: {
     ...chronoblogTheme.color,
     text: '#222',
-    background: '#fff',
-    link: '#3d7e9a',
-    primary: '#3a5f7d',
-    secondary: '#5a809e',
-    muted: '#dae1e3',
+    background: '#EEFEFE',
+    link: '#00E1FF',
+    primary: '#0C94E8',
+    secondary: '#444',
+    muted: '#00BAFF',
     modes: {
       ...chronoblogTheme.colors.modes,
       dark: {
         ...chronoblogTheme.colors.modes.dark,
         text: '#eaeaea',
         background: '#0e0f17',
-        muted: '#161b1d'
+        muted: '#161b1d',
+        link: '#fff'
       }
     }
   },
@@ -38,8 +39,8 @@ export default {
   },
   fonts: {
     ...chronoblogTheme.fonts,
-    body: '-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif',
-    heading: 'inherit',
+    body: 'Open Sans, sans-serif',
+    heading: 'Oswald, sans-serif',
     monospace: 'Menlo, monospace'
   }
 };

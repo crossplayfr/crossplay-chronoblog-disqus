@@ -1,13 +1,14 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: 'Chronoblog Disqus Example',
-    siteDescription: 'Starter for Gatsby Theme Chronoblog',
+    siteTitle: 'CrossPlay',
+    siteDescription:
+      'Jeux vidéo et technologie, on vous en parle à notre façon.',
     siteImage: '/banner.png', // main image of the site for metadata
-    siteUrl: 'https://chronoblog-disqus.now.sh/',
+    siteUrl: 'https://www.crossplay.fr',
     pathPrefix: '/',
-    siteLanguage: 'en',
-    ogLanguage: `en_US`,
-    author: 'Site Author', // for example - 'Ivan Ganev'
+    siteLanguage: 'fr',
+    ogLanguage: `fr_FR`,
+    author: 'CrossPlay', // for example - 'Ivan Ganev'
     authorDescription: 'short author description', // short text about the author
     avatar: '/avatar.jpg',
     twitterSite: '', // website account on twitter
@@ -22,12 +23,8 @@ module.exports = {
         url: `https://twitter.com/ganevru`
       },
       {
-        icon: `github`,
+        icon: `facebook`,
         url: `https://github.com/Chronoblog/gatsby-theme-chronoblog`
-      },
-      {
-        icon: `node-js`,
-        url: `https://www.npmjs.com/package/gatsby-theme-chronoblog`
       }
     ]
   },
@@ -37,10 +34,10 @@ module.exports = {
       options: {
         uiText: {
           // ui text fot translate
-          feedShowMoreButton: 'show more',
-          feedSearchPlaceholder: 'search',
-          cardReadMoreButton: 'read more →',
-          allTagsButton: 'all tags'
+          feedShowMoreButton: 'Voir plus',
+          feedSearchPlaceholder: 'Rechercher',
+          cardReadMoreButton: 'Lire la suite →',
+          allTagsButton: 'Tous les tags'
         },
         feedItems: {
           // global settings for feed items
@@ -61,8 +58,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Chronoblog Gatsby Theme`,
-        short_name: `Chronoblog`,
+        name: `CrossPlay`,
+        short_name: `CrossPlay`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#3a5f7d`,
@@ -83,7 +80,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-disqus`,
       options: {
-        shortname: `chronoblog-1`
+        shortname: `crossplay`
       }
     }
   ]
