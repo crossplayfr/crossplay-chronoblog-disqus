@@ -1,23 +1,31 @@
 ---
 date: 2019-08-05
-tags: ['note', 'podcast']
+tags: ['note', 'musique']
 ---
 
-<iframe
-  height="200px"
-  width="100%"
-  frameborder="no"
-  scrolling="no"
-  seamless
-  src="https://player.simplecast.com/62a1da0d-f39d-4d65-97d7-8faa48ae046f?dark=false"
-></iframe>
+Un exemple d'intégration basique de service tier dans une note.
 
-This podcast on:
+<iframe 
+width="100%" 
+height="300" 
+scrolling="no" 
+frameborder="no" 
+allow="autoplay" 
+src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/920206987&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
+</iframe>
 
-<p>
-<FontAwesomeIcon icon={['fab', 'google']} />&nbsp;<a href="https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9YX3dTX1dZaA">Google Podcasts</a><br/>
-<FontAwesomeIcon icon={['fab', 'apple']} />&nbsp;<a href="https://podcasts.apple.com/us/podcast/chats-with-kent-c-dodds/id1475543959">Apple Podcasts</a><br/>
-<FontAwesomeIcon icon={['fab', 'spotify']} />&nbsp;<a href="https://open.spotify.com/show/7GkO2poedjbltWT5lduL5w">Spotify</a>
-</p>
+<div 
+style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;">
+<a 
+href="https://soundcloud.com/spinninrecords" 
+title="Spinnin&#x27; Records" 
+target="_blank" 
+style="color: #cccccc; text-decoration: none;">Spinnin&#x27; Records</a>
+ · 
+ <a href="https://soundcloud.com/spinninrecords/niviro-the-phantom-out-now" 
+ title="NIVIRO - The Phantom [OUT NOW]" 
+ target="_blank" 
+ style="color: #cccccc; text-decoration: none;">NIVIRO - The Phantom [OUT NOW]
+ </a>
 
-An example of how to embed podcast (in this case from simplecast, but you can use any other sources) in a note.
+</div>

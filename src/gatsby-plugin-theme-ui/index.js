@@ -7,17 +7,17 @@ export default {
     ...chronoblogTheme.color,
     text: '#222',
     background: '#EEFEFE',
-    link: '#00E1FF',
+    link: '#888',
     primary: '#0C94E8',
-    secondary: '#444',
-    muted: '#00BAFF',
+    secondary: '#AAA',
+    muted: '#CFE1E8',
     modes: {
       ...chronoblogTheme.colors.modes,
       dark: {
         ...chronoblogTheme.colors.modes.dark,
         text: '#eaeaea',
         background: '#0e0f17',
-        muted: '#161b1d',
+        muted: '#888',
         link: '#fff'
       }
     }

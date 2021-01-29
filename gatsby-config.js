@@ -16,15 +16,15 @@ module.exports = {
     social: [
       {
         icon: `at`,
-        url: `mailto:mymail@mail.com`
+        url: `mailto:mail@crossplay.fr`
       },
       {
         icon: `twitter`,
-        url: `https://twitter.com/ganevru`
+        url: `https://twitter.com/crossplayfr`
       },
       {
         icon: `facebook`,
-        url: `https://github.com/Chronoblog/gatsby-theme-chronoblog`
+        url: `https://www.facebook.com/crossplayofficiel`
       }
     ]
   },
