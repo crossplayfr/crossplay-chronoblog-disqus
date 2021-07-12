@@ -2,7 +2,9 @@
 title: '[API] Xbox - un ingénieur transforme des cartes cadeaux Xbox en Bitcoin'
 date: 2021-07-10
 cover: ./xbox.webp
-description: '( ³⌓³)'<br/>'___|\__________'<br/>'Le meilleur des deux mondes, quand le jeu-vidéo rencontre les crypto-monnaies !'
+description: '( ³⌓³)'  
+'___|\__________'  
+'Le meilleur des deux mondes, quand le jeu-vidéo rencontre les crypto-monnaies !'
 tags: ['Xbox', 'Bitcoin']
 ---
 
