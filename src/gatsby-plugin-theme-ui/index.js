@@ -9,8 +9,8 @@ export default {
     background: '#FFF',
     link: '#FFF',
     primary: '#00DBEB',
-    secondary: '#AAA',
-    muted: '#87EDF6',
+    secondary: '#00B0F0',
+    muted: '#00B0F0',
     modes: {
       ...chronoblogTheme.colors.modes,
       dark: {
@@ -18,9 +18,9 @@ export default {
         text: '#fff',
         background: '#000',
         muted: '#87EDF6',
-        link: '#fff'
-      }
-    }
+        link: '#fff',
+      },
+    },
   },
   fontSizes: [14, 16, 18, 20, 22, 24, 28, 36],
   borderRadius: {
@@ -30,17 +30,17 @@ export default {
     search: 2,
     code: 2,
     img: 2,
-    authorBanner: 2
+    authorBanner: 2,
   },
   borderWidth: {
     ...chronoblogTheme.borderWidth,
     card: 2,
-    search: 2
+    search: 2,
   },
   fonts: {
     ...chronoblogTheme.fonts,
     body: 'Open Sans, sans-serif',
     heading: 'Oswald, sans-serif',
-    monospace: 'Menlo, monospace'
-  }
+    monospace: 'Menlo, monospace',
+  },
 };
