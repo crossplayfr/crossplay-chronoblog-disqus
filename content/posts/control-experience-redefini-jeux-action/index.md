@@ -1,8 +1,8 @@
 ---
-title: Control, une expérience ultime qui redéfini les standards du jeu d’action
+title: 'Control, une expérience ultime qui redéfini les standards du jeu d’action'
 cover: ./cover.jpg
 date: 2019-12-01
-description: La vision du jeu d'action de Control est novatrice, intense et immersive.
+description: Un super jeu d'action.
 tags: ['Jeu', 'Review']
 ---
 
