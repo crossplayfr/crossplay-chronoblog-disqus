@@ -16,17 +16,17 @@ module.exports = {
     social: [
       {
         icon: `at`,
-        url: `mailto:mail@crossplay.fr`
+        url: `mailto:mail@crossplay.fr`,
       },
       {
         icon: `twitter`,
-        url: `https://twitter.com/crossplayfr`
+        url: `https://twitter.com/crossplayfr`,
       },
       {
         icon: `facebook`,
-        url: `https://www.facebook.com/crossplayofficiel`
-      }
-    ]
+        url: `https://www.facebook.com/crossplayofficiel`,
+      },
+    ],
   },
   plugins: [
     {
@@ -37,23 +37,23 @@ module.exports = {
           feedShowMoreButton: 'Voir plus',
           feedSearchPlaceholder: 'Rechercher',
           cardReadMoreButton: 'Lire la suite →',
-          allTagsButton: 'Tous les tags'
+          allTagsButton: 'Tous les tags',
         },
         feedItems: {
           // global settings for feed items
-          limit: 50,
+          limit: 10,
           yearSeparator: true,
           yearSeparatorSkipFirst: true,
           contentTypes: {
             links: {
-              beforeTitle: '🔗 '
-            }
-          }
+              beforeTitle: '🔗 ',
+            },
+          },
         },
         feedSearch: {
-          symbol: '🔍'
-        }
-      }
+          symbol: '🔍',
+        },
+      },
     },
     {
       resolve: `gatsby-plugin-manifest`,
@@ -64,24 +64,24 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#3a5f7d`,
         display: `standalone`,
-        icon: `src/assets/favicon.png`
-      }
+        icon: `src/assets/favicon.png`,
+      },
     },
     {
-      resolve: `gatsby-plugin-sitemap`
+      resolve: `gatsby-plugin-sitemap`,
     },
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // replace "UA-XXXXXXXXX-X" with your own Tracking ID
-        trackingId: 'UA-XXXXXXXXX-X'
-      }
+        trackingId: 'UA-XXXXXXXXX-X',
+      },
     },
     {
       resolve: `gatsby-plugin-disqus`,
       options: {
-        shortname: `crossplay`
-      }
-    }
-  ]
+        shortname: `crossplay`,
+      },
+    },
+  ],
 };
