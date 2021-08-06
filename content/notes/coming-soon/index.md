@@ -1,5 +1,5 @@
 ---
-title: CrossPlay est en cours de refonte !
+title: CrossPlay revient le 1er septembre !
 date: 2021-08-01
 tags: ['annonce', 'refonte']
 draft: false
