@@ -1,6 +1,6 @@
 {
   "name": "chronoblog-disqus",
-  "version": "latest",
+  "version": "1.6.0",
   "private": true,
   "description": "gatsby-starter-chronoblog-disqus",
   "keywords": [],
