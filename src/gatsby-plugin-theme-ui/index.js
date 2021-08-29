@@ -8,9 +8,9 @@ export default {
     text: '#222',
     background: '#FFF',
     link: '#FFF',
-    primary: '#00DBEB',
-    secondary: '#00B0F0',
-    muted: '#00B0F0',
+    primary: '#A56ED3',
+    secondary: '#A56ED3',
+    muted: '#BB9ED3',
     modes: {
       ...chronoblogTheme.colors.modes,
       dark: {

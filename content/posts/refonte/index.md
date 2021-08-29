@@ -1,7 +1,7 @@
 ---
 title: 'CrossPlay revient en Septembre !'
 cover: ./cover.jpg
-date: 2019-12-01
+date: 2021-08-01
 description: Une refonte complète est en route et nous avons hâte de la partager avec vous.
 tags: ['Refonte']
 ---
