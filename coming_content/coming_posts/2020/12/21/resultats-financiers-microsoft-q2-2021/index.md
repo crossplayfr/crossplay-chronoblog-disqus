@@ -1,7 +1,7 @@
 ---
 title: Les résultats financiers de Xbox sont au beau fixe
 date: 2020-12-21
-cover: ./cover.webp
+cover: ./cover.jpg
 description: Un début d'année absolument fantastique pour Microsoft
 tags: ['Xbox', 'Microsoft', 'Jeu']
 ---
