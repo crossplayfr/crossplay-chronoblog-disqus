@@ -9,8 +9,7 @@ module.exports = {
     siteLanguage: 'fr',
     ogLanguage: `fr_FR`,
     author: 'CrossPlay', // for example - 'Ivan Ganev'
-    authorDescription:
-      'Notre passion est aussi notre métier, et toute la rédaction CrossPlay se mobilise pour produire du contenu original régulièrement !', // short text about the author
+    authorDescription: 'Une équipe soudée et passionnée !', // short text about the author
     avatar: '/avatar.jpg',
     twitterSite: '', // website account on twitter
     twitterCreator: '', // creator account on twitter
