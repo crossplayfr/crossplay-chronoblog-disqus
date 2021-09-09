@@ -4,7 +4,7 @@ date: 2021-09-09
 cover: ./cover.jpg
 description: Dans cette interview d'API, apprenez en plus sur le personnage et le nouveau format à venir.
 tags: ['API', 'Opinion']
-draft: false
+draft: true
 ---
 Crossplay.fr se réinvente pour votre plus grand plaisir, de nouveaux contenus feront bientôt leurs apparitions sur notre site. Cette semaine, nous sommes heureux de vous présenter un nouveau format : Le billet d’opinion. À cette occasion, un nouveau contributeur rejoint les rangs de l’équipe Crossplay, il s’agit de API, une personnalité qui vous allez le voir, à parfois des avis bien tranchés. Nous avons eu l’opportunité d’échanger avec lui pour évoquer ce nouveau format mais aussi pour en apprendre plus sur le personnage.
 
