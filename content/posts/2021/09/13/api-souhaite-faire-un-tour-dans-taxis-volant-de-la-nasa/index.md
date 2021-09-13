@@ -1,10 +1,10 @@
 ---
 title: 'API souhaite faire un tour dans les taxis volants de la NASA'
-date: 2021-09-13
+date: 2021-09-14
 cover: ./cover.jpg
 description: API fait le point sur l'actualité de la semaine, avec de nombreuses innovations scientifiques !
 tags: ['API', 'Opinion']
-draft: false
+draft: true
 ---
 Bonjour à tous chers lecteurs, ravi de vous recevoir sur Crossplay.fr ! Aujourd'hui marque l'arrivée d'un nouveau format sur notre site. Sans plus tarder, passons aux news de la semaine.
 
