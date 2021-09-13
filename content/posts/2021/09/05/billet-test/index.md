@@ -4,7 +4,7 @@ date: 2021-09-05
 cover: ./cover.jpg
 description: API se lance et essaye MOSC, la révolution de l'achat en ligne est en marche ! Ou pas...
 tags: ['API', "Opinion"]
-draft: false
+draft: true
 ---
 
 ## Netflix : une première approche dans l’univers du gaming
