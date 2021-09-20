@@ -32,7 +32,7 @@ https://www.theverge.com/2021/9/14/22673238/amazon-one-palm-scanning-tech-entert
 ## Razer : sortie d’un accessoire indispensable pour les joueurs smartphones
 (✖╭╮✖)    
 \_\_\_|\\\_\_\_\_\_\_\_\_\_\_\_      
-Les Gamers Finger Sleeves sont des embouts à placer au bout des doigts lors de sessions de jeux sur votre smartphone. En effet, vous aussi vous avez sans doute ce problème lorsque vous passez des heures sur Fortnite avec votre mobile ? Eh bien problème résolu avec cette révolution initiée par Razer !
+Les Gamers Finger Sleeves sont des embouts à placer au bout des doigts lors de session de jeu sur votre smartphone. En effet, vous aussi vous avez sans doute ce problème lorsque vous passez des heures sur Fortnite avec votre mobile ? Eh bien problème résolu avec cette révolution initiée par Razer !
 
 Nan plus sérieusement, vous pensiez vraiment que je dirai autant d’inepties ? Pour quatre bouts de tissus ?... Razer a l’habitude de sortir des produits tous plus étranges les uns que les autres mais là c’est quand même de l’abus. De plus, dépenser 10€ pour ça ?... Honnêtement, les mots me manquent pour exprimer mon aversion.
 Au passage, qu’est-ce que c’est moche en plus…
