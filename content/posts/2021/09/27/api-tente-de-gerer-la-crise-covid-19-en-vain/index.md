@@ -4,7 +4,7 @@ date: 2021-09-27
 cover: ./cover.jpg
 description: Cette semaine, on fait le pleins d'inventions en développement. Des pneus increvables, des plantes fluorescante et même des micropuces volantes !
 tags: ['API', 'Opinion']
-draft: true
+draft: false
 ---
 
 ## Apple : uniformisation européenne des connectiques pour 2024
