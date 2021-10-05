@@ -2,7 +2,7 @@
 title: 'API envisage de ne plus commander de café livré par drone'
 date: 2021-10-05
 cover: ./cover.jpg
-description: Cette semaine, nous allons à la découverte d'innovations fascinantes, des projets intriguant et des évènements insolites.
+description: Cette semaine, nous allons à la découverte d'innovations fascinantes, des projets intriguants et des évènements insolites.
 tags: ['API', 'Opinion']
 draft: false
 ---
