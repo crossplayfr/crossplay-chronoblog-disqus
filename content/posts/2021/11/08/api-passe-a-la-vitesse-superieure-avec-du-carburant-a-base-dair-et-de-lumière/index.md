@@ -1,6 +1,6 @@
 ---
 title: 'API passe à la vitesse supérieure avec du carburant à base d’air et de lumière'
-date: 2021-11-09
+date: 2021-11-08
 cover: ./cover.jpg
 description: Cette semaine, on passe en revue des inventions, le metaverse proposé par Microsoft dans Teams et bien sûr la sortie de Forza Horizon 5 !
 tags: ['API', 'Opinion']
