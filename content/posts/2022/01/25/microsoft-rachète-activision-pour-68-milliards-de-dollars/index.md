@@ -56,7 +56,7 @@ Pour le moment, il n’y a malheureusement pas plus d’informations mais c’es
 Un Youtuber, ancien snowboarder olympique, aurait volontairement crashé son avion afin de faire le buzz et engranger des vues. Nous n’allons pas nous mentir, la course aux vues restera un problème quand des personnes stupides s’y intéressent…
 
 J’ai quand même pris la peine d’aller visionner la vidéo en question, et par-delà l’affaire du crash d’avion, s’il vous plaît, un effort sur vos montages, le son est décalé, c’est insupportable !
-
+ 
 Cerise sur le gâteau, une enquête a été lancée par la fédération Américaine de l’aviation concernant cet incident. Qui sait, peut-être que ce cher youtubeur recevra une belle amende, mais cela n’arrêtera pas les gens de faire des trucs débiles sur internet !
 
 [Source](https://www.papergeek.fr/un-youtubeur-americain-est-accuse-davoir-crashe-son-avion-pour-faire-des-vues-2461501)    [Vidéo](https://www.youtube.com/watch?v=vbYszLNZxhM&t=342s)
