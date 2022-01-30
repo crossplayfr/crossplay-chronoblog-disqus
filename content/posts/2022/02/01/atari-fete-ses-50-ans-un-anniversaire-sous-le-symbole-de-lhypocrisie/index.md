@@ -53,7 +53,7 @@ D’après Alex Krieger, les résultats obtenus par le robot sont nettement meil
 ## Space Entertainment Enterprise : un chantier en développement pour un studio de tournage dans l’espace
 (╥_╥)       
 \_\_\_|\\\_\_\_\_\_\_\_\_\_\_\_       
-En collaboration avec Axiom Space, la société Space Entertainment Enterprise met en chantier un studio de tournage à bord de l’ISS. Ambitieux, ce projet ne cache pas son intention véritable de « développer une économie extra-terrestre », ce qui risque sans doute de rapporter gros ! 
+En collaboration avec Axiom Space, la société Space Entertainment Enterprise met en chantier un studio de tournage à bord de l’ISS. Ambitieux, ce projet ne cache pas son intention véritable de « développer une économie extra-terrestre », ce qui risque sans doute de rapporter gros !   
 
 Plusieurs axes sont actuellement en réflexion, comme la possibilité d’accueillir des tournages de films, des émissions de télévision mais aussi des événements musicaux et sportifs. Si le projet est en effet ambitieux, l’objectif lui n’est pas terrible… 
 
