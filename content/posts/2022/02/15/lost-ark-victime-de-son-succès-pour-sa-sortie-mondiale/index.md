@@ -16,7 +16,7 @@ Je dois dire qu’après 5 ans d’attente pour pouvoir jouer à Lost Ark, je me
 
 [Source](https://www.jeuxvideo.com/news/1530634/lost-ark-le-mmo-explose-tout-sur-steam-new-world-s-incline.htm)
 
-## 
+## Mario Kart : Nintendo prévoit la vente de circuit en DLC
 (╥_╥)       
 \_\_\_|\\\_\_\_\_\_\_\_\_\_\_\_     
 Nintendo prévoit de proposer des circuits en DLC pour Mario Kart 8 Deluxe. Chaque piste en vente affichera un tarif de 50 centimes, une somme plutôt dérisoire mais qui peut vite devenir importante. En effet, ce seront 48 circuits qui seront publiés, pour un panier total de 24 €.
@@ -25,7 +25,7 @@ Fondamentalement, proposer du contenu additionnel pour étendre la durée de vie
 
 [Source](https://www.numerama.com/pop-culture/851499-le-vrai-souci-du-dlc-de-mario-kart-8-deluxe-les-circuits-issus-du-jeu-mobile.html)
 
-## 
+## Guardian HoverJet : l’armée américaine investit dans un avion furtif amphibie
 (｡•̀ ᴗ -) ✧     
 \_\_\_|\\\_\_\_\_\_\_\_\_\_\_\_     
 L’armée américaine investit dans un projet d’avion furtif qui a la particularité d’être amphibie et peut donc se poser sur l’eau ou la glace. Avec une vitesse de croisière à 547 km/h et pouvant atteindre jusqu’à 724 km/h, le Gardian HoverJet est également doté d’une autonomie de 15 heures.
@@ -34,7 +34,7 @@ On attend la présentation d’un prototype pour plus d’informations de Valkyr
 
 [Source](https://www.futura-sciences.com/tech/actualites/technologie-armee-americaine-craque-futuriste-guardian-hoverjet-engin-volant-amphibie-96646/)
 
-## 
+## Apple : Apple s’intéresse à l’usage de ses AirTags en tant que mouchards
 (∩⌣̀_⌣́)      
 \_\_\_\_|\\\_\_\_\_\_\_\_\_\_\_\_       
 Les AirTags d’Apple font débat depuis maintenant plusieurs mois. Ironiquement, cet outil qui était censé aider à retrouver ses affaires personnelles est désormais utilisé par des personnes malveillantes dans le but de voler des véhicules, ou pire, suivre des personnes.
@@ -45,7 +45,7 @@ Et puis pour terminer, ceux qui utilisent les AirTags de façon détournée, vou
 
 [Source](https://www.futura-sciences.com/tech/actualites/technologie-apple-veut-empecher-utilisation-airtags-comme-mouchards-95375/)
 
-## 
+## La Chine développe un robot de supervision des embryons dans des utérus artificiels
 ( ³⌓³)      
 \_\_\_|\\\_\_\_\_\_\_\_\_\_\_\_\_       
 La Chine développe une technologie d’IA permettant de superviser le bon développement d’embryons dans des utérus artificiels. L’origine de ce projet vient du taux de natalité en chute extraordinaire en Chine et ces recherches pourraient apporter l’aide nécessaire au pays pour relancer sa croissance démographique.
