@@ -1,7 +1,7 @@
 ---
 title: 'Un prix de 20 000 $ pour avoir fini HALO 2 dans sa difficulté maximale'
 date: 2022-08-09
-cover: ./cover.jpg
+cover: ./cover.jpeg
 description: Dix-huit ans, c’est le temps qu’il aura fallu pour qu’un joueur réussisse ce défi extrême de finir Halo 2 en difficulté légendaire...
 tags: ['API', 'Opinion']
 draft: false
