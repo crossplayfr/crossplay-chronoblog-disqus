@@ -1,6 +1,6 @@
 ---
 title: 'Merci beaucoup et au revoir !'
-date: 2022-05-09
+date: 2022-09-05
 cover: ./cover.jpg
 description: Un dernier mot avant de partir. 
 tags: ['Merci']
